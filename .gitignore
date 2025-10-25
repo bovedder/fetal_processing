@@ -1,0 +1,8 @@
+# conda envs
+env/
+env*/
+.conda/
+.venv/
+__pycache__/
+*.pyc
+env
